@@ -1,1 +1,1 @@
-"# docker-alpine-weblogic" 
+# docker-alpine-weblogic
